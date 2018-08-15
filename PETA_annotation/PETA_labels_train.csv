@@ -1,0 +1,36 @@
+id,orig_id,label,name,mapping_3x1,mapping_5x3,mapping_3x1_orig
+0,5,personalLess30,Age16-30,0,0,0
+1,6,personalLess45,Age31-45,0,0,0
+2,7,personalLess60,Age46-60,0,0,0
+3,8,personalLarger60,AgeAbove60,0,0,0
+4,10,carryingBackpack,Backpack,0,0,0
+5,14,carryingOther,CarryingOther,0,0,0
+6,17,lowerBodyCasual,Casual lower,0,4,5
+7,18,upperBodyCasual,Casual upper,0,2,2
+8,21,lowerBodyFormal,Formal lower,0,4,5
+9,22,upperBodyFormal,Formal upper,0,2,2
+10,24,accessoryHat,Hat,0,1,1
+11,26,upperBodyJacket,Jacket,0,2,2
+12,27,lowerBodyJeans,Jeans,0,4,5
+13,29,footwearLeatherShoes,Leather Shoes,0,4,5
+14,30,upperBodyLogo,Logo,0,2,2
+15,31,hairLong,Long hair,0,1,1
+16,39,personalMale,Male,0,0,0
+17,40,carryingMessengerBag,MessengerBag,0,3,0
+18,41,accessoryMuffler,Muffler,0,0,0
+19,42,accessoryNothing,No accessory,0,0,0
+20,43,carryingNothing,No carrying,0,0,0
+21,45,upperBodyPlaid,Plaid,0,2,2
+22,46,carryingPlasticBags,Plastic bag,0,3,0
+23,47,footwearSandals,Sandals,0,4,5
+24,48,footwearShoes,Shoes,0,4,5
+25,50,lowerBodyShorts,Shorts,0,4,5
+26,51,upperBodyShortSleeve,ShortSleeve,0,2,2
+27,52,lowerBodyShortSkirt,Skirt,0,4,5
+28,53,footwearSneakers,Sneaker,0,4,5
+29,55,upperBodyThinStripes,Stripes,0,2,2
+30,59,accessorySunglasses,Sunglasses,0,1,1
+31,62,lowerBodyTrousers,Trousers,0,4,5
+32,63,upperBodyTshirt,Tshirt,0,2,2
+33,64,upperBodyOther,UpperOther,0,2,2
+34,65,upperBodyVNeck,V-Neck,0,1,1

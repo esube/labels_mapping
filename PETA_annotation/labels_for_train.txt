@@ -1,0 +1,81 @@
+2	accessoryHeadphone	
+4	personalLess15		
+		
+9	carryingBabyBuggy	
+		
+11	hairBald		
+12	footwearBoots		
+13	lowerBodyCapri		
+			
+15	carryingShoppingTro	
+16	carryingUmbrella	
+		
+19	personalFemale		
+20	carryingFolder		
+			
+23	accessoryHairBand	
+			
+25	lowerBodyHotPants	
+			
+28	accessoryKerchief	
+			
+32	lowerBodyLongSkirt	
+33	upperBodyLongSleeve	
+35	lowerBodyPlaid		
+37	lowerBodyThinStripes	
+38	carryingLuggageCase	
+		
+		
+44	upperBodyNoSleeve		
+			
+			
+49	hairShort		
+60	upperBodySweater	 	
+		
+		
+		
+54	footwearStocking	
+55	upperBodyThinStripes		
+56	upperBodySuit		
+57	carryingSuitcase	
+58	lowerBodySuits	
+	
+35 attributes used for training
+===============================
+5	personalLess30			
+6	personalLess45			
+7	personalLess60			
+8	personalLarger60
+10	carryingBackpack
+14	carryingOther
+17	lowerBodyCasual			
+18	upperBodyCasual	
+21	lowerBodyFormal			
+22	upperBodyFormal
+24	accessoryHat
+26	upperBodyJacket			
+27	lowerBodyJeans
+29	footwearLeatherShoes		
+30	upperBodyLogo			
+31	hairLong
+39	personalMale			
+40	carryingMessengerBag		
+41	accessoryMuffler
+42	accessoryNothing		
+43	carryingNothing	
+45	upperBodyPlaid
+46	carryingPlasticBags
+47	footwearSandals
+48	footwearShoes
+50	lowerBodyShorts
+51	upperBodyShortSleeve
+52	lowerBodyShortSkirt
+53	footwearSneaker	
+61	upperBodyThickStripes
+59	accessorySunglasses	
+62	lowerBodyTrousers		
+63	upperBodyTshirt			
+64	upperBodyOther			
+65	upperBodyVNeck		
+
+

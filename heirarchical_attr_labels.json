@@ -1,0 +1,1462 @@
+{
+    "Attributes": {
+        "data": {
+            "exclusive": 0, 
+            "leaf": 0, 
+            "name": "Attributes", 
+            "ID": 0
+        }, 
+        "children": [
+            {
+                "Accessory": {
+                    "data": {
+                        "exclusive": 1, 
+                        "leaf": 0, 
+                        "name": "Accessory", 
+                        "ID": 6
+                    }, 
+                    "children": [
+                        {
+                            "Objects": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 0, 
+                                    "name": "Objects", 
+                                    "ID": 20
+                                }, 
+                                "children": [
+                                    {
+                                        "Backpacks": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 1, 
+                                                "name": "Backpacks", 
+                                                "ID": 26
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "Bags": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 0, 
+                                                "name": "Bags", 
+                                                "ID": 27
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "HandBags": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "HandBags", 
+                                                            "ID": 97
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "LeatherBags": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "LeatherBags", 
+                                                            "ID": 96
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "PlasticBags": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "PlasticBags", 
+                                                            "ID": 95
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "ShoulderBags": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "ShoulderBags", 
+                                                            "ID": 94
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "Folder": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 1, 
+                                                "name": "Folder", 
+                                                "ID": 29
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "Suitcase": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 1, 
+                                                "name": "Suitcase", 
+                                                "ID": 30
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "Umbrella": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 1, 
+                                                "name": "Umbrella", 
+                                                "ID": 28
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }, 
+                        {
+                            "WearAccessory": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 0, 
+                                    "name": "WearAccessory", 
+                                    "ID": 21
+                                }, 
+                                "children": [
+                                    {
+                                        "Earrings": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 1, 
+                                                "name": "Earrings", 
+                                                "ID": 36
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "EyeGlasses": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 1, 
+                                                "name": "EyeGlasses", 
+                                                "ID": 32
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "FaceMask": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 1, 
+                                                "name": "FaceMask", 
+                                                "ID": 38
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "Hairband": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 1, 
+                                                "name": "Hairband", 
+                                                "ID": 35
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "Hat": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 1, 
+                                                "name": "Hat", 
+                                                "ID": 33
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "Headphones": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 1, 
+                                                "name": "Headphones", 
+                                                "ID": 34
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "Necklace": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 1, 
+                                                "name": "Necklace", 
+                                                "ID": 37
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "Scarf": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 1, 
+                                                "name": "Scarf", 
+                                                "ID": 31
+                                            }
+                                        }
+                                    }, 
+                                    {
+                                        "Stocking": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 1, 
+                                                "name": "Stocking", 
+                                                "ID": 39
+                                            }
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }, 
+            {
+                "Actions": {
+                    "data": {
+                        "exclusive": 1, 
+                        "leaf": 0, 
+                        "name": "Actions", 
+                        "ID": 4
+                    }, 
+                    "children": [
+                        {
+                            "Gait": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 1, 
+                                    "name": "Gait", 
+                                    "ID": 16
+                                }
+                            }
+                        }
+                    ]
+                }
+            }, 
+            {
+                "Age": {
+                    "data": {
+                        "exclusive": 1, 
+                        "leaf": 0, 
+                        "name": "Age", 
+                        "ID": 2
+                    }, 
+                    "children": [
+                        {
+                            "Adult": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 1, 
+                                    "name": "Adult", 
+                                    "ID": 12
+                                }
+                            }
+                        }, 
+                        {
+                            "Old": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 1, 
+                                    "name": "Old", 
+                                    "ID": 13
+                                }
+                            }
+                        }, 
+                        {
+                            "Teen": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 1, 
+                                    "name": "Teen", 
+                                    "ID": 10
+                                }
+                            }
+                        }, 
+                        {
+                            "Young": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 1, 
+                                    "name": "Young", 
+                                    "ID": 11
+                                }
+                            }
+                        }
+                    ]
+                }
+            }, 
+            {
+                "Body": {
+                    "data": {
+                        "exclusive": 1, 
+                        "leaf": 0, 
+                        "name": "Body", 
+                        "ID": 7
+                    }, 
+                    "children": [
+                        {
+                            "Footwear": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 0, 
+                                    "name": "Footwear", 
+                                    "ID": 25
+                                }, 
+                                "children": [
+                                    {
+                                        "FootwearColor": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "FootwearColor", 
+                                                "ID": 55
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "FootwearBlack": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "FootwearBlack", 
+                                                            "ID": 93
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "FootwearBlue": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "FootwearBlue", 
+                                                            "ID": 90
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "FootwearGreen": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "FootwearGreen", 
+                                                            "ID": 91
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "FootwearRed": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "FootwearRed", 
+                                                            "ID": 89
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "FootwearWhite": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "FootwearWhite", 
+                                                            "ID": 92
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "FootwearType": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "FootwearType", 
+                                                "ID": 54
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "Boots": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "Boots", 
+                                                            "ID": 85
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "LeatherShoe": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "LeatherShoe", 
+                                                            "ID": 86
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "Sandals": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "Sandals", 
+                                                            "ID": 88
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "Sneakers": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "Sneakers", 
+                                                            "ID": 87
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }, 
+                        {
+                            "Head": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 0, 
+                                    "name": "Head", 
+                                    "ID": 22
+                                }, 
+                                "children": [
+                                    {
+                                        "Facial": {
+                                            "data": {
+                                                "exclusive": 0, 
+                                                "leaf": 0, 
+                                                "name": "Facial", 
+                                                "ID": 43
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "Attractive": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "Attractive", 
+                                                            "ID": 108
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "BagsUnderEyes": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "BagsUnderEyes", 
+                                                            "ID": 112
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "BigLips": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "BigLips", 
+                                                            "ID": 113
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "BigNose": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "BigNose", 
+                                                            "ID": 114
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "Chubby": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "Chubby", 
+                                                            "ID": 117
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "DoubleChin": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "DoubleChin", 
+                                                            "ID": 118
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "FacialHair": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 0, 
+                                                            "name": "FacialHair", 
+                                                            "ID": 107
+                                                        }, 
+                                                        "children": [
+                                                            {
+                                                                "5oShadow": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "5oShadow", 
+                                                                        "ID": 126
+                                                                    }
+                                                                }
+                                                            }, 
+                                                            {
+                                                                "ArchedEyebrows": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "ArchedEyebrows", 
+                                                                        "ID": 124
+                                                                    }
+                                                                }
+                                                            }, 
+                                                            {
+                                                                "Bangs": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "Bangs", 
+                                                                        "ID": 123
+                                                                    }
+                                                                }
+                                                            }, 
+                                                            {
+                                                                "BushyEyebrows": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "BushyEyebrows", 
+                                                                        "ID": 125
+                                                                    }
+                                                                }
+                                                            }, 
+                                                            {
+                                                                "Goatee": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "Goatee", 
+                                                                        "ID": 128
+                                                                    }
+                                                                }
+                                                            }, 
+                                                            {
+                                                                "Mustache": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "Mustache", 
+                                                                        "ID": 129
+                                                                    }
+                                                                }
+                                                            }, 
+                                                            {
+                                                                "NoBeard": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "NoBeard", 
+                                                                        "ID": 130
+                                                                    }
+                                                                }
+                                                            }, 
+                                                            {
+                                                                "Sideburns": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "Sideburns", 
+                                                                        "ID": 127
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }, 
+                                                {
+                                                    "HeavyMakeup": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "HeavyMakeup", 
+                                                            "ID": 120
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "HighCheekbones": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "HighCheekbones", 
+                                                            "ID": 119
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "Lipstick": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "Lipstick", 
+                                                            "ID": 121
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "NarrowEyes": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "NarrowEyes", 
+                                                            "ID": 111
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "OvalFace": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "OvalFace", 
+                                                            "ID": 109
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "PointyNose": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "PointyNose", 
+                                                            "ID": 115
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "RecedingHairline": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "RecedingHairline", 
+                                                            "ID": 110
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "RosyCheeks": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "RosyCheeks", 
+                                                            "ID": 116
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "Smiling": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "Smiling", 
+                                                            "ID": 122
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "HairColor": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "HairColor", 
+                                                "ID": 41
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "BlackHair": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "BlackHair", 
+                                                            "ID": 106
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "BlondeHair": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "BlondeHair", 
+                                                            "ID": 103
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "BrownHair": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "BrownHair", 
+                                                            "ID": 104
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "GrayHair": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "GrayHair", 
+                                                            "ID": 105
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "HairLength": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "HairLength", 
+                                                "ID": 40
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "Bald": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "Bald", 
+                                                            "ID": 100
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "LongHair": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "LongHair", 
+                                                            "ID": 98
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "ShortHair": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "ShortHair", 
+                                                            "ID": 99
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "HairType": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "HairType", 
+                                                "ID": 42
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "StraightHair": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "StraightHair", 
+                                                            "ID": 102
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "WavyHair": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "WavyHair", 
+                                                            "ID": 101
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }, 
+                        {
+                            "LowerBody": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 0, 
+                                    "name": "LowerBody", 
+                                    "ID": 24
+                                }, 
+                                "children": [
+                                    {
+                                        "LowerAppearance": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "LowerAppearance", 
+                                                "ID": 52
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "LowerPatterned": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "LowerPatterned", 
+                                                            "ID": 78
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "LowerStripes": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "LowerStripes", 
+                                                            "ID": 79
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "LowerColor": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "LowerColor", 
+                                                "ID": 53
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "LowerBlack": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "LowerBlack", 
+                                                            "ID": 84
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "LowerBlue": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "LowerBlue", 
+                                                            "ID": 81
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "LowerGreen": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "LowerGreen", 
+                                                            "ID": 82
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "LowerRed": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "LowerRed", 
+                                                            "ID": 80
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "LowerWhite": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "LowerWhite", 
+                                                            "ID": 83
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "LowerStyle": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "LowerStyle", 
+                                                "ID": 50
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "LowerCasual": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "LowerCasual", 
+                                                            "ID": 74
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "LowerFormal": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "LowerFormal", 
+                                                            "ID": 73
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "LowerType": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "LowerType", 
+                                                "ID": 51
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "Pants": {
+                                                        "data": {
+                                                            "exclusive": 1, 
+                                                            "leaf": 0, 
+                                                            "name": "Pants", 
+                                                            "ID": 75
+                                                        }, 
+                                                        "children": [
+                                                            {
+                                                                "JeansPants": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "JeansPants", 
+                                                                        "ID": 135
+                                                                    }
+                                                                }
+                                                            }, 
+                                                            {
+                                                                "KakiPants": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "KakiPants", 
+                                                                        "ID": 136
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }, 
+                                                {
+                                                    "Shorts": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "Shorts", 
+                                                            "ID": 76
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "Skirt": {
+                                                        "data": {
+                                                            "exclusive": 1, 
+                                                            "leaf": 0, 
+                                                            "name": "Skirt", 
+                                                            "ID": 77
+                                                        }, 
+                                                        "children": [
+                                                            {
+                                                                "LongSkirt": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "LongSkirt", 
+                                                                        "ID": 137
+                                                                    }
+                                                                }
+                                                            }, 
+                                                            {
+                                                                "ShortSkirt": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "ShortSkirt", 
+                                                                        "ID": 138
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }, 
+                        {
+                            "UpperBody": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 0, 
+                                    "name": "UpperBody", 
+                                    "ID": 23
+                                }, 
+                                "children": [
+                                    {
+                                        "UpperAppearance": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "UpperAppearance", 
+                                                "ID": 46
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "UpperPatterned": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "UpperPatterned", 
+                                                            "ID": 62
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "UpperPlaid": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "UpperPlaid", 
+                                                            "ID": 64
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "UpperStripes": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "UpperStripes", 
+                                                            "ID": 63
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "UpperColor": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "UpperColor", 
+                                                "ID": 49
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "UpperBlack": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "UpperBlack", 
+                                                            "ID": 69
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "UpperBlue": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "UpperBlue", 
+                                                            "ID": 66
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "UpperGreen": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "UpperGreen", 
+                                                            "ID": 67
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "UpperRed": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "UpperRed", 
+                                                            "ID": 65
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "UpperWhite": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "UpperWhite", 
+                                                            "ID": 68
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "UpperFeatures": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "UpperFeatures", 
+                                                "ID": 48
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "Upperlogo": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "Upperlogo", 
+                                                            "ID": 72
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "UpperSleeve": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "UpperSleeve", 
+                                                "ID": 47
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "LongSleeve": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "LongSleeve", 
+                                                            "ID": 71
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "ShortSleeve": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "ShortSleeve", 
+                                                            "ID": 70
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "UpperStyle": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "UpperStyle", 
+                                                "ID": 44
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "UpperCasual": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "UpperCasual", 
+                                                            "ID": 57
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "UpperFormal": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "UpperFormal", 
+                                                            "ID": 56
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }, 
+                                    {
+                                        "UpperType": {
+                                            "data": {
+                                                "exclusive": 1, 
+                                                "leaf": 0, 
+                                                "name": "UpperType", 
+                                                "ID": 45
+                                            }, 
+                                            "children": [
+                                                {
+                                                    "Coat": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "Coat", 
+                                                            "ID": 60
+                                                        }
+                                                    }
+                                                }, 
+                                                {
+                                                    "Jacket": {
+                                                        "data": {
+                                                            "exclusive": 1, 
+                                                            "leaf": 0, 
+                                                            "name": "Jacket", 
+                                                            "ID": 59
+                                                        }, 
+                                                        "children": [
+                                                            {
+                                                                "JeansJacket": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "JeansJacket", 
+                                                                        "ID": 134
+                                                                    }
+                                                                }
+                                                            }, 
+                                                            {
+                                                                "LeatherJacket": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "LeatherJacket", 
+                                                                        "ID": 133
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }, 
+                                                {
+                                                    "Shirt": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 0, 
+                                                            "name": "Shirt", 
+                                                            "ID": 58
+                                                        }, 
+                                                        "children": [
+                                                            {
+                                                                "TShirt": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "TShirt", 
+                                                                        "ID": 131
+                                                                    }
+                                                                }
+                                                            }, 
+                                                            {
+                                                                "VNeck": {
+                                                                    "data": {
+                                                                        "exclusive": 0, 
+                                                                        "leaf": 1, 
+                                                                        "name": "VNeck", 
+                                                                        "ID": 132
+                                                                    }
+                                                                }
+                                                            }
+                                                        ]
+                                                    }
+                                                }, 
+                                                {
+                                                    "Sweater": {
+                                                        "data": {
+                                                            "exclusive": 0, 
+                                                            "leaf": 1, 
+                                                            "name": "Sweater", 
+                                                            "ID": 61
+                                                        }
+                                                    }
+                                                }
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }, 
+            {
+                "Complexion": {
+                    "data": {
+                        "exclusive": 1, 
+                        "leaf": 0, 
+                        "name": "Complexion", 
+                        "ID": 3
+                    }, 
+                    "children": [
+                        {
+                            "DarkSkinned": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 1, 
+                                    "name": "DarkSkinned", 
+                                    "ID": 15
+                                }
+                            }
+                        }, 
+                        {
+                            "PaleSkinned": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 1, 
+                                    "name": "PaleSkinned", 
+                                    "ID": 14
+                                }
+                            }
+                        }
+                    ]
+                }
+            }, 
+            {
+                "Gender": {
+                    "data": {
+                        "exclusive": 1, 
+                        "leaf": 0, 
+                        "name": "Gender", 
+                        "ID": 1
+                    }, 
+                    "children": [
+                        {
+                            "Female": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 1, 
+                                    "name": "Female", 
+                                    "ID": 9
+                                }
+                            }
+                        }, 
+                        {
+                            "Male": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 1, 
+                                    "name": "Male", 
+                                    "ID": 8
+                                }
+                            }
+                        }
+                    ]
+                }
+            }, 
+            {
+                "View": {
+                    "data": {
+                        "exclusive": 1, 
+                        "leaf": 0, 
+                        "name": "View", 
+                        "ID": 5
+                    }, 
+                    "children": [
+                        {
+                            "Back": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 1, 
+                                    "name": "Back", 
+                                    "ID": 18
+                                }
+                            }
+                        }, 
+                        {
+                            "Front": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 1, 
+                                    "name": "Front", 
+                                    "ID": 17
+                                }
+                            }
+                        }, 
+                        {
+                            "Side": {
+                                "data": {
+                                    "exclusive": 0, 
+                                    "leaf": 1, 
+                                    "name": "Side", 
+                                    "ID": 19
+                                }
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
